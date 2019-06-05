@@ -1,3 +1,5 @@
+// Write a program that prints the following text at the terminal.
+
 #include <stdio.h>
 
 int main (void)
